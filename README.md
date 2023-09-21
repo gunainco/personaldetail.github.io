@@ -1,0 +1,1 @@
+# personaldetail.github.io
