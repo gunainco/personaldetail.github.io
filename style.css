@@ -5,9 +5,35 @@
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     color:rgb(15, 11, 11);
 }
-#submit{
-  color: #de0000;
+a:link, a:visited{
+  border: 5px rgb(0, 0, 0);
+  background-color: #970404fa;
+  color: rgb(255, 255, 255);
+  border-radius: 3px;
+  width: 30px;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  text-size-adjust: 10px;
+  font-size: 12px; 
+  margin-left: 360px;
+  
+}
+a:hover,a:active{
+  background-color: #ff0000;
+  font-size: 12px;
+}
 
+.nm{
+  border-radius: 5px;
+  border-width: 0.2px;
+  height: 25px;
+  background-color: #d8ebf2;
+}
+.ng{
+  border-radius: 7px;
+  border-width: 0.5px;
+  background-color: #d8ebf2;
 }
 
 .glass{
@@ -24,6 +50,7 @@
     padding-right:50px;
     padding-top:35px;
     padding: 20px;
+    padding-bottom: 35px;
     text-align: justify;
 }
 .glass:before {
