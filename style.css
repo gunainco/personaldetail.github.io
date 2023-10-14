@@ -72,11 +72,9 @@ h1{
     color: rgb(19, 10, 10); 
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-
 h1 span {
 color: blue;
 }
-
 body {
     display: flex;
     min-height: 100vh;
